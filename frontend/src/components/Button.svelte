@@ -1,0 +1,11 @@
+<button>Sample Button</button>
+
+<style>
+    button {
+        background-color: blue;
+        color: white;
+        padding: 10px;
+        border-radius: 5px;
+        border: none;
+    }
+</style>
